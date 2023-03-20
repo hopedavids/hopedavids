@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <img align='right' src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" width="230">
 
 ## About me
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I am open to accept an offer as an SRE or DevOps Engineer:)<br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m looking to collaborate on any cool projects especially on web3 and blockchain:)<br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I coach and teach people Python and DevOps concept to help develop them in their career endeavors :)<br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I believe in learning by doing and being consistent in what I do. <br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I actually have systems engineering background and I understand networks/systems and the "magic" that happens behind the scene😉<br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Good understanding in Linux and Network 👩‍💻 <br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Hoping to make some projects using python and containerizing it by the end of this year ✨<br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m currently enrolled in Sotware Engineering ALX-Holerton.😉<br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m look-ward to work in a role as a Platform/Site Reliability/devOps engineer 👩‍💻 <br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m learning always and currently  diving deep into Software Engineering and APISec ✨<br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> When I'm not coding, I am probably exploring new concepts, or thinking about my next project. 
 
 <br>
