@@ -3,13 +3,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning more on... devOps tech stacks
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m look-ward to work in a role as a... devOps engineer 
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently enrolled in Sotware Engineering ALX-Holerton.
+- 🌱 I’m also learning more on APISec and devOps tech stacks
+- 👯 I’m looking to collaborate on any cool projects especially on web3 and blockchain
+- 🤔 I’m look-ward to work in a role as a Platform/Site Reliability/devOps engineer 
+- 💬 Ask me about anthing tech and life matters.
+- 📫 How to reach me: hledavids@gmail.com
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I'm Hope!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
