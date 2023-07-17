@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m looking to collaborate on any cool projects especially on web3 and blockchain:)<br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I coach and teach people Python and DevOps concept to help develop them in their career endeavors :)<br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I believe in learning by doing and being consistent in what I do. <br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m currently enrolled in Sotware Engineering ALX-Holerton.😉<br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m look-ward to work in a role as a Platform/Site Reliability/devOps engineer 👩‍💻 <br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m learning always and currently  diving deep into Software Engineering and APISec ✨<br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> When I'm not coding, I am probably exploring new concepts, or thinking about my next project. 
